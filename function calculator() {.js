@@ -1,4 +1,4 @@
-function calculator() {
+function calculatorApp() {
     // Get the input values
     let num1 = document.getElementById('num1').value;
     let num2 = document.getElementById('num2').value;
