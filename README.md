@@ -1,2 +1,2 @@
 # JavaScriptPortofolio
-brief projecst
+brief projects
