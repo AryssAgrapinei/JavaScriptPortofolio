@@ -1,2 +1,2 @@
 # JavaScriptPortofolio
-to show something
+brief projecst
