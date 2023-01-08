@@ -34,5 +34,5 @@ function calculatorApp() {
   }
   
   // Add an event listener to the "Calculate" button
-  document.getElementById('calculate').addEventListener('click', calculator);
+  document.getElementById('calculate').addEventListener('click', calculatorApp);
   
